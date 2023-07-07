@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Order-Manager/static/css/main.d5e686f5.css",
+    "main.js": "/Order-Manager/static/js/main.ddc705ec.js",
+    "static/js/787.e0acee45.chunk.js": "/Order-Manager/static/js/787.e0acee45.chunk.js",
+    "static/media/banner.png": "/Order-Manager/static/media/banner.b191775563c8f9d3e14e.png",
+    "static/media/banner4.png": "/Order-Manager/static/media/banner4.d09d45d3887153bc9aac.png",
+    "static/media/Khaanpaan.png": "/Order-Manager/static/media/Khaanpaan.a69d279afc97cf724c90.png",
+    "static/media/ClashDisplay-Medium.woff2": "/Order-Manager/static/media/ClashDisplay-Medium.88a32cc8fc026d95af05.woff2",
+    "static/media/ClashDisplay-Regular.woff2": "/Order-Manager/static/media/ClashDisplay-Regular.98b52bdf102085f28108.woff2",
+    "static/media/ClashDisplay-Bold.woff2": "/Order-Manager/static/media/ClashDisplay-Bold.e2f8628a6f360f644a76.woff2",
+    "static/media/logo.svg": "/Order-Manager/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Order-Manager/index.html",
+    "static/media/BagPack.svg": "/Order-Manager/static/media/BagPack.2276ad715714ff0d6f0223caebec0359.svg",
+    "main.d5e686f5.css.map": "/Order-Manager/static/css/main.d5e686f5.css.map",
+    "main.ddc705ec.js.map": "/Order-Manager/static/js/main.ddc705ec.js.map",
+    "787.e0acee45.chunk.js.map": "/Order-Manager/static/js/787.e0acee45.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5e686f5.css",
+    "static/js/main.ddc705ec.js"
+  ]
+}
